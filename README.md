@@ -1,6 +1,6 @@
 # Piscine_PHP
 
-Day 00 87
+Day 00 87\n
 Day 01 87
 Day 02 15
 Day 03 37
